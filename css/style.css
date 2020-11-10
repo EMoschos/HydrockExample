@@ -60,3 +60,8 @@ footer.page-footer {
   font-family: 'Bungee', cursive;
   /* font-size: 48px; */
 }
+
+.z-depth-5 {
+  background-color: rgb(000,000,000,0.3);
+  border-radius: 25px;
+}
